@@ -1,2 +1,2 @@
 # cvitae
-Desafio Front-end do Curriculum Vitae
+Desafio Front-end do Curriculum Vitae proposto pela IFPB
